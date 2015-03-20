@@ -14,8 +14,8 @@ fullDataPath = 'data.json'
 
 headers = { 'User-Agent' : 'Womens edit a thon India' }
 
-cmtitle = "श्रेणी:महिला सम्पादनथन २०१५ मा बनाइएका वा सुधारिएका लेखहरू"
-apiUrl = 'https://ne.wikipedia.org/w/api.php'
+cmtitle = "వర్గం:2015 వికీ వుమన్స్ హిస్టరీ మంత్ సందర్భంగా రూపొందిన వ్యాసాలు"
+apiUrl = 'https://te.wikipedia.org/w/api.php'
 
 eventStartTimestamp = 20150301000000
 

@@ -14,10 +14,10 @@ fullDataPath = 'data.json'
 
 headers = { 'User-Agent' : 'Womens edit a thon India' }
 
-cmtitle = "श्रेणी:महिला सम्पादनथन २०१५ मा बनाइएका वा सुधारिएका लेखहरू"
-apiUrl = 'https://ne.wikipedia.org/w/api.php'
+cmtitle = "वर्गः:महिला-लेखाभियानम् २०१५"
+apiUrl = 'https://sa.wikipedia.org/w/api.php'
 
-eventStartTimestamp = 20150301000000
+eventStartTimestamp = 2015301000000
 
 categoryData =  {
                   'action' : 'query',

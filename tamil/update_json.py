@@ -17,7 +17,7 @@ headers = { 'User-Agent' : 'Womens edit a thon India' }
 cmtitle = "பகுப்பு:2015 பெண்கள் வரலாற்று மாதத்தில் உருவாக்கிய அல்லது மேம்படுத்திய கட்டுரைகள்"
 apiUrl = 'https://ta.wikipedia.org/w/api.php'
 
-eventStartTimestamp = 20140301000000
+eventStartTimestamp = 20150301000000
 
 categoryData =  {
                   'action' : 'query',

@@ -17,7 +17,7 @@ headers = { 'User-Agent' : 'Womens edit a thon India' }
 cmtitle = "ଶ୍ରେଣୀ:୨୦୧୫ ମହିଳା ଇତିହାସ ମାସରେ ଗଢ଼ା ବା ଉନ୍ନତ କରାଯାଇଥିବା ପ୍ରସଙ୍ଗମାନ"
 apiUrl = 'https://or.wikipedia.org/w/api.php'
 
-eventStartTimestamp = 20140301000000
+eventStartTimestamp = 20150301000000
 
 categoryData =  {
                   'action' : 'query',
