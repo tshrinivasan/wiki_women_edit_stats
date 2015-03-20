@@ -54,12 +54,12 @@ def getEdits(title,pageId):
     edits = []
     while True:
         articleData['titles'] = title.split(':')[-1].encode('utf-8')
-        print articleData['titles']
+        #print articleData['titles']
         req = urllib2.Request(apiUrl, headers=headers, data = urllib.urlencode(articleData))
         response = json.loads(urllib2.urlopen(req).read())
         pageId = response['query']['pages'].keys()[0]
-        print pageId
-        print response['query']['pages'][pageId]
+      #  print pageId
+       # print response['query']['pages'][pageId]
 
         if response['query']['pages'][pageId].get("revisions"):
 	  for edit in response['query']['pages'][pageId].get("revisions"):
